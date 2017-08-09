@@ -1,2 +1,3 @@
 # skeletonresearch
-Repository for curve-skeleton research
+
+This Git repository contains information for my 3D curve-skeleton research
